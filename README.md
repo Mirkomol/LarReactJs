@@ -3,13 +3,13 @@ This repository provides a basic introduction to integrating Laravel with React.
 Simple implementation of Laravel as the backend and React.js as the frontend.
 
 ## Features
-Like/Dislike functionality
-Add and show comments
-Contact us page that displays the name after submitting
-Change colors functionality
+### Like/Dislike functionality
+### Add and show comments
+### Contact us page that displays the name after submitting
+### Change colors functionality
 
 ## Installation
-Clone the repository: git clone [https://github.com/yourusername/larreactjs.git](https://github.com/Mirkomol/LarReactJs.git)
+Clone the repository:  https://github.com/Mirkomol/LarReactJs.git
 
 ## Usage
 Start Laravel server: php artisan serve
