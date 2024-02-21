@@ -12,8 +12,8 @@ Simple implementation of Laravel as the backend and React.js as the frontend.
 Clone the repository:  https://github.com/Mirkomol/LarReactJs.git
 
 ## Usage
-Start Laravel server: php artisan serve
-Start React.js server: npm run dev
+#### Start Laravel server: php artisan serve
+#### Start React.js server: npm run dev
 
 
 ## License
